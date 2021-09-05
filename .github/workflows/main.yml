@@ -49,7 +49,7 @@ jobs:
         sh pandoc/gen.sh
     - name: Deploy
       run: |
-        git clone -b gh-pages https://oauth2:${{secrets.ACCESS_TOKEN}}@github.com/F0RE1GNERS/template /tmp/template
+        git clone -b gh-pages https://oauth2:${{secrets.ACCESS_TOKEN}}@github.com/moyi-qwq/template /tmp/template
         cp template.pdf /tmp/template/
         cd /tmp/template
         git add template.pdf
