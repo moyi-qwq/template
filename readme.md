@@ -8,7 +8,7 @@
 
 F0RE1GNERS 于 2019.04 的 43rd ICPC World Finals 后退役。[WF 的 TRD](https://F0RE1GNERS.github.io/template/WF-Team-Reference-Document.pdf) 仅供留念（内容略有删减）。
 
-F0RE1GNERS (IO%) 将会参加 2019 年的若干场区域赛，有幸与大家再度相会。 
+F0RE1GNERS (IO%) 将会参加 2019 年的若干场区域赛，有幸与大家再度相会。  
 
 ## 代码特性
 
