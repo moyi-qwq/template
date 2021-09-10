@@ -1,8 +1,6 @@
 ## 关于模板库
 
-![](https://github.com/F0RE1GNERS/template/workflows/build/badge.svg)
-
-[PDF 下载](https://F0RE1GNERS.github.io/template/template.pdf)
+[PDF 下载](https://moyi-qwq.github.io/template/template.pdf)
 
 ## 代码特性
 
