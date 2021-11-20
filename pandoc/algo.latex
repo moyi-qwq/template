@@ -376,9 +376,8 @@ $endif$
 $endif$
 
 \title{\vspace{50mm} \huge Standard Code Library \\[20pt]}
-\author{Moyi_qwq \\[10pt] East Northern  University}
-\date{September 2021}
-
+\author{Moyi \\[10pt] East Northern University}
+\date{September 9102}
 
 \begin{document}
 $if(title)$
